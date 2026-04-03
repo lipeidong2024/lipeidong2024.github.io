@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>原子与分子光物理研究部</p>
+    <p>原子分子与光物理研究部</p>
     <p>中国科学院精密测量院</p>
     <p>武汉市, 湖北省</p>
 
