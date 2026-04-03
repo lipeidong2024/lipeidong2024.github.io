@@ -9,9 +9,12 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>原子分子与光物理研究部</p>
-    <p>中国科学院精密测量院</p>
-    <p>武汉市, 湖北省</p>
+    <div style="text-align: center; font-size: 0.9rem; line-height: 1.5;">
+      Division of Atomic, Molecular and Optical Physics<br>
+      <b>Innovation Academy for Precision Measurement Science and Technology (APM)</b><br>
+      Chinese Academy of Sciences<br>
+      Wuhan, China
+    </div>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
