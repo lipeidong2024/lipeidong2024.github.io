@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-10'
+  last_updated: '2026-04-27'
 papers:
   OrOJY34AAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -17,16 +17,12 @@ papers:
     citations: 0
     title: "\u91CF\u5B50\u533A\u57DF\u5185\u5355\u79BB\u5B50\u58F0\u5B50\u6FC0\u5149\u6001\u7684\u7814\u7A76"
     year: '2025'
-  OrOJY34AAAAJ:Y0pCki6q_DkC:
-    citations: 0
-    title: Single-ion phonon laser in the quantum regime
-    year: '2026'
   OrOJY34AAAAJ:d1gkVwhDpl0C:
     citations: 2
     title: Building and characterizing a stylus ion-trap system
     year: '2024'
   OrOJY34AAAAJ:qjMakFHDy7sC:
-    citations: 4
+    citations: 5
     title: Experimental demonstration of single-spin Stirling engine cycles with enhanced efficiency
     year: '2025'
   OrOJY34AAAAJ:u-x6o8ySG0sC:
